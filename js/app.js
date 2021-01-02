@@ -11,6 +11,7 @@ const p2 = document.getElementById("p2");{
 }
 
 const img1 = document.createElement("IMG"); {
+    img1.innerHTMl
     img1.setAttribute("src", "images/SW-121117-Coder-Popup1.jpg");
     img1.setAttribute("width", "500");
     img1.setAttribute("height", "300");
